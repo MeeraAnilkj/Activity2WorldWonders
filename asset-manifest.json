@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Activity2WorldWonders/static/css/main.564d8188.css",
-    "main.js": "/Activity2WorldWonders/static/js/main.734f34de.js",
+    "main.css": "/Activity2WorldWonders/static/css/main.613853f2.css",
+    "main.js": "/Activity2WorldWonders/static/js/main.0e4d1e57.js",
     "static/js/787.d3befce1.chunk.js": "/Activity2WorldWonders/static/js/787.d3befce1.chunk.js",
     "static/media/logo.svg": "/Activity2WorldWonders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Activity2WorldWonders/index.html",
-    "main.564d8188.css.map": "/Activity2WorldWonders/static/css/main.564d8188.css.map",
-    "main.734f34de.js.map": "/Activity2WorldWonders/static/js/main.734f34de.js.map",
+    "main.613853f2.css.map": "/Activity2WorldWonders/static/css/main.613853f2.css.map",
+    "main.0e4d1e57.js.map": "/Activity2WorldWonders/static/js/main.0e4d1e57.js.map",
     "787.d3befce1.chunk.js.map": "/Activity2WorldWonders/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.564d8188.css",
-    "static/js/main.734f34de.js"
+    "static/css/main.613853f2.css",
+    "static/js/main.0e4d1e57.js"
   ]
 }
